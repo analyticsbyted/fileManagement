@@ -1,0 +1,188 @@
+Folder Name,Size,Path,File Count,Last Modified,Depth,Parent Folder,Size (MB)
+Users,214959775859,C:\Users,922080,2023-03-20 21:43:19.070737664,0,C:\,205001.61729717255
+teddi,214956463150,C:\Users\teddi,921973,2023-09-14 16:41:17.299205632,1,C:\Users,204998.45805168152
+Documents,59896609756,C:\Users\teddi\Documents,521628,2023-08-02 17:55:19.787857408,2,C:\Users\teddi,57121.858364105225
+AppData,54994530291,C:\Users\teddi\AppData,263891,2022-10-19 01:03:47.720347136,2,C:\Users\teddi,52446.871081352234
+Local,51371281155,C:\Users\teddi\AppData\Local,225619,2023-09-16 05:47:27.190166016,3,C:\Users\teddi\AppData,48991.4714384079
+Windows,35919480022,C:\Windows,124232,2023-09-16 21:46:04.190335744,0,C:\,34255.485555648804
+ProgramData,32519268879,C:\ProgramData,521611,2023-08-17 14:29:28.594460672,0,C:\,31012.791518211365
+Downloads,32388578462,C:\Users\teddi\Downloads,2143,2023-09-16 21:40:08.987719168,2,C:\Users\teddi,30888.155424118042
+Program Files,28302931801,C:\Program Files,121401,2023-09-14 17:37:18.961599488,0,C:\,26991.77913761139
+Videos,26428604676,C:\Users\teddi\Videos,130,2023-06-27 16:29:43.205747968,2,C:\Users\teddi,25204.281497955322
+Anaconda3,22654903571,C:\ProgramData\Anaconda3,515799,2023-02-12 17:25:21.616240384,1,C:\ProgramData,21605.399676322937
+Docker,22558541072,C:\Users\teddi\AppData\Local\Docker,197,2023-08-09 18:35:17.851307520,4,C:\Users\teddi\AppData\Local,21513.501235961914
+wsl,22476226560,C:\Users\teddi\AppData\Local\Docker\wsl,2,2023-08-06 21:50:25.205082880,5,C:\Users\teddi\AppData\Local\Docker,21435.0
+data,22352494592,C:\Users\teddi\AppData\Local\Docker\wsl\data,1,2023-06-08 01:15:50.974617856,6,C:\Users\teddi\AppData\Local\Docker\wsl,21317.0
+exe,13443957321,C:\Users\teddi\Downloads\exe,69,2023-09-03 22:43:58.602068736,3,C:\Users\teddi\Downloads,12821.156807899475
+VirtualBox VMs,12446419891,C:\Users\teddi\VirtualBox VMs,9,2023-06-07 19:50:30.879809024,2,C:\Users\teddi,11869.830981254578
+Windows 11,12446419891,C:\Users\teddi\VirtualBox VMs\Windows 11,9,2023-06-07 23:03:27.345033472,3,C:\Users\teddi\VirtualBox VMs,11869.830981254578
+Program Files (x86),11340324824,C:\Program Files (x86),36206,2023-08-23 22:42:58.771448832,0,C:\,10814.976524353027
+SM-G975U1_15134989482,10707587388,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482,2649,2023-02-12 04:32:12.868597504,7,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1,10211.551082611084
+Samsung,10707587388,C:\Users\teddi\Documents\Samsung,2649,2023-02-12 03:41:50.136833024,3,C:\Users\teddi\Documents,10211.551082611084
+SmartSwitch,10707587388,C:\Users\teddi\Documents\Samsung\SmartSwitch,2649,2023-02-12 03:41:50.136833024,4,C:\Users\teddi\Documents\Samsung,10211.551082611084
+backup,10707587388,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup,2649,2023-02-12 03:41:50.136833024,5,C:\Users\teddi\Documents\Samsung\SmartSwitch,10211.551082611084
+SM-G975U1,10707587388,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1,2649,2023-02-12 03:48:28.171026688,6,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup,10211.551082611084
+WinSxS,10576176810,C:\Windows\WinSxS,80368,2023-09-14 16:46:40.595047680,1,C:\Windows,10086.228189468384
+Installer,9881839202,C:\Windows\Installer,1337,2023-09-16 21:46:33.576817920,1,C:\Windows,9424.056245803833
+System32,9844864766,C:\Windows\System32,19098,2023-09-14 17:54:03.850917632,1,C:\Windows,9388.794675827026
+pkgs,9497097745,C:\ProgramData\Anaconda3\pkgs,231669,2023-07-10 03:04:11.301617152,2,C:\ProgramData\Anaconda3,9057.138199806213
+Old HP docs,9377141350,C:\Users\teddi\Documents\Old HP docs,6131,2022-10-21 03:22:27.853753088,3,C:\Users\teddi\Documents,8942.73886680603
+Xavier,8478052983,C:\Users\teddi\Documents\Xavier,5461,2023-08-24 23:06:38.024977664,3,C:\Users\teddi\Documents,8085.301383018494
+envs,8393935047,C:\ProgramData\Anaconda3\envs,160590,2023-07-06 03:50:15.149149184,2,C:\ProgramData\Anaconda3,8005.080267906189
+GitHub,8056274191,C:\Users\teddi\Documents\GitHub,285496,2023-09-13 20:57:06.607072512,3,C:\Users\teddi\Documents,7683.06178188324
+customerBehavior,7837850357,C:\ProgramData\Anaconda3\envs\customerBehavior,136607,2023-07-02 23:58:46.449749504,3,C:\ProgramData\Anaconda3\envs,7474.7565813064575
+PGYR21_P012023,7821817879,C:\Users\teddi\Downloads\PGYR21_P012023,5,2023-03-31 17:30:42.872227840,3,C:\Users\teddi\Downloads,7459.466818809509
+Pictures,7623101900,C:\Users\teddi\Pictures,646,2023-07-31 17:55:25.189295616,2,C:\Users\teddi,7269.956493377686
+Desktop,7249263249,C:\Users\teddi\Desktop,2788,2023-09-09 13:45:29.322545408,2,C:\Users\teddi,6913.436173439026
+Desktop Cleanup,7186036230,C:\Users\teddi\Desktop\Desktop Cleanup,2721,2022-10-21 01:41:07.592335104,3,C:\Users\teddi\Desktop,6853.138189315796
+SM-G975U1_20230211224828,7006447717,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828,121,2023-02-12 03:53:28.980061952,8,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482,6681.869236946106
+Video,7001936785,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828\Video,94,2023-02-12 03:49:47.727779584,9,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828,6677.567276954651
+rtools42,6916542689,C:\rtools42,95158,2022-10-22 04:43:39.561314304,0,C:\,6596.129120826721
+CFA Level 2 Schweser 2010 Full,6847664986,C:\Users\teddi\Documents\Old HP docs\CFA\CFA Level 2 Schweser 2010 Full,28,2022-10-21 03:19:29.981876736,5,C:\Users\teddi\Documents\Old HP docs\CFA,6530.4422245025635
+CFA,6847664986,C:\Users\teddi\Documents\Old HP docs\CFA,28,2022-10-21 03:19:30.041351168,4,C:\Users\teddi\Documents\Old HP docs,6530.4422245025635
+Projects,6007911243,C:\Users\teddi\Documents\Projects,145161,2023-08-28 00:59:15.445673984,3,C:\Users\teddi\Documents,5729.590647697449
+Packages,5757104607,C:\Users\teddi\AppData\Local\Packages,11782,2023-09-05 17:15:31.631555072,4,C:\Users\teddi\AppData\Local,5490.402800559998
+Package Cache,5439932738,C:\ProgramData\Package Cache,572,2023-09-16 21:41:53.426710016,1,C:\ProgramData,5187.92413520813
+toshiba flash drive backup,5401200537,C:\Users\teddi\Desktop\Desktop Cleanup\toshiba flash drive backup,461,2022-10-21 01:42:02.798363648,4,C:\Users\teddi\Desktop\Desktop Cleanup,5150.986229896545
+DriverStore,5351558849,C:\Windows\System32\DriverStore,4843,2023-09-14 16:44:43.289492480,2,C:\Windows\System32,5103.644227027893
+FileRepository,5349834169,C:\Windows\System32\DriverStore\FileRepository,4333,2023-09-14 16:44:43.290050560,3,C:\Windows\System32\DriverStore,5101.9994440078735
+Microsoft,5294295381,C:\Users\teddi\AppData\Local\Microsoft,25534,2023-09-08 16:53:26.265581824,4,C:\Users\teddi\AppData\Local,5049.033528327942
+Video Projects,5257806361,C:\Users\teddi\Pictures\Video Projects,5,2023-02-12 05:23:44.793269760,3,C:\Users\teddi\Pictures,5014.234887123108
+Tableau,5210790116,C:\Program Files\Tableau,11195,2022-10-29 00:09:19.134249728,1,C:\Program Files,4969.396701812744
+03.Beginners Courses,5074663756,C:\Users\teddi\Desktop\Desktop Cleanup\toshiba flash drive backup\03.Beginners Courses,98,2022-10-21 01:41:49.424579584,5,C:\Users\teddi\Desktop\Desktop Cleanup\toshiba flash drive backup,4839.576488494873
+Microsoft Office,4485595126,C:\Program Files\Microsoft Office,8375,2023-09-16 12:32:39.739015936,1,C:\Program Files,4277.796865463257
+OneDrive,4363301400,C:\Users\teddi\OneDrive,4010,2022-12-17 23:42:27.092976128,2,C:\Users\teddi,4161.168479919434
+CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc,4130381824,C:\Users\teddi\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc,9,2023-06-08 01:11:41.952502528,5,C:\Users\teddi\AppData\Local\Packages,3939.0390625
+LocalState,4130340864,C:\Users\teddi\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc\LocalState,1,2023-06-08 01:12:37.186755328,6,C:\Users\teddi\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc,3939.0
+Training,3772627775,C:\Users\teddi\Documents\Training,2473,2023-08-27 21:51:26.469494016,3,C:\Users\teddi\Documents,3597.858214378357
+SM-G975U1_20230211233212,3701139671,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212,2528,2023-02-12 04:36:30.487545088,8,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482,3529.681845664978
+Photo,3695089588,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212\Photo,2500,2023-02-12 04:32:33.128943616,9,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212,3523.912036895752
+Movies,3683277236,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828\Video\Movies,5,2023-02-12 03:49:47.725575680,10,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828\Video,3512.646900177002
+AzScreenRecorder,3680448647,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828\Video\Movies\AzScreenRecorder,4,2023-02-12 03:52:37.568612864,11,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828\Video\Movies,3509.9493474960327
+zip,3679400791,C:\Users\teddi\Downloads\zip,49,2023-09-03 22:43:58.559222784,3,C:\Users\teddi\Downloads,3508.9500341415405
+usr,3589618278,C:\rtools42\usr,53922,2022-10-22 04:43:55.630941952,1,C:\rtools42,3423.3267574310303
+.pyenv,3532897051,C:\Users\teddi\.pyenv,90003,2023-02-19 20:12:34.952253440,2,C:\Users\teddi,3369.2331800460815
+pyenv-win,3532897045,C:\Users\teddi\.pyenv\pyenv-win,90002,2023-02-19 20:43:34.142227712,3,C:\Users\teddi\.pyenv,3369.2331743240356
+root,3529548379,C:\Program Files\Microsoft Office\root,8103,2022-10-19 01:24:01.514312960,2,C:\Program Files\Microsoft Office,3366.039637565613
+Roaming,3500165802,C:\Users\teddi\AppData\Roaming,36711,2023-08-23 22:43:24.550502144,3,C:\Users\teddi\AppData,3338.018228530884
+todo_list,3408029445,C:\Users\teddi\Documents\Projects\todo_list,90746,2023-02-19 00:00:14.366984192,4,C:\Users\teddi\Documents\Projects,3250.1501512527466
+venv,3407846114,C:\Users\teddi\Documents\Projects\todo_list\venv,90709,2023-07-09 20:03:33.986559744,5,C:\Users\teddi\Documents\Projects\todo_list,3249.9753131866455
+Lib,3381454366,C:\Users\teddi\Documents\Projects\todo_list\venv\Lib,90364,2023-02-17 22:19:54.400253696,6,C:\Users\teddi\Documents\Projects\todo_list\venv,3224.8061809539795
+site-packages,3381454366,C:\Users\teddi\Documents\Projects\todo_list\venv\Lib\site-packages,90364,2023-08-06 21:46:59.002402560,7,C:\Users\teddi\Documents\Projects\todo_list\venv\Lib,3224.8061809539795
+versions,3377605409,C:\Users\teddi\.pyenv\pyenv-win\versions,89718,2023-02-19 20:51:37.379085056,4,C:\Users\teddi\.pyenv\pyenv-win,3221.1355295181274
+lib,3344152367,C:\rtools42\usr\lib,44255,2022-10-22 04:47:26.933101056,2,C:\rtools42\usr,3189.232222557068
+usr,3309883016,C:\rtools42\usr\lib\mxe\usr,40867,2022-10-22 04:47:26.935585792,4,C:\rtools42\usr\lib\mxe,3156.550422668457
+mxe,3309883016,C:\rtools42\usr\lib\mxe,40867,2022-10-22 04:47:26.933101056,3,C:\rtools42\usr\lib,3156.550422668457
+x86_64-w64-mingw32.static.posix,3309883016,C:\rtools42\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix,40867,2022-10-22 04:46:40.762307328,5,C:\rtools42\usr\lib\mxe\usr,3156.550422668457
+x86_64-w64-mingw32.static.posix,3309883016,C:\rtools42\x86_64-w64-mingw32.static.posix,40867,2022-10-22 04:46:40.762307328,1,C:\rtools42,3156.550422668457
+Microsoft,3154906678,C:\Program Files (x86)\Microsoft,1643,2022-10-19 05:02:11.136163072,1,C:\Program Files (x86),3008.753469467163
+Docker,3101509286,C:\Program Files\Docker,304,2023-07-08 04:47:23.519683328,1,C:\Program Files,2957.8297481536865
+3.9.6,3089589049,C:\Users\teddi\.pyenv\pyenv-win\versions\3.9.6,83523,2023-07-04 05:38:32.289282304,5,C:\Users\teddi\.pyenv\pyenv-win\versions,2946.461724281311
+Programs,3061804188,C:\Users\teddi\AppData\Local\Programs,57718,2023-07-05 04:06:06.207474688,4,C:\Users\teddi\AppData\Local,2919.9640159606934
+csv,3018478094,C:\Users\teddi\Downloads\csv,15,2023-09-03 22:43:58.574272256,3,C:\Users\teddi\Downloads,2878.6450328826904
+pkgs,2972143667,C:\ProgramData\Anaconda3\envs\customerBehavior\pkgs,36214,2023-07-02 23:58:28.452621056,4,C:\ProgramData\Anaconda3\envs\customerBehavior,2834.45707988739
+Lib,2921536353,C:\Users\teddi\.pyenv\pyenv-win\versions\3.9.6\Lib,81601,2023-02-19 20:40:41.707889920,6,C:\Users\teddi\.pyenv\pyenv-win\versions\3.9.6,2786.1941843032837
+site-packages,2861265616,C:\Users\teddi\.pyenv\pyenv-win\versions\3.9.6\Lib\site-packages,79048,2023-07-08 16:10:22.783890688,7,C:\Users\teddi\.pyenv\pyenv-win\versions\3.9.6\Lib,2728.715530395508
+Docker,2846046790,C:\Program Files\Docker\Docker,296,2023-07-08 04:44:25.653070080,2,C:\Program Files\Docker,2714.201726913452
+Alteryx,2763142709,C:\Users\teddi\AppData\Local\Alteryx,38632,2023-07-25 23:58:36.450615296,4,C:\Users\teddi\AppData\Local,2635.1382341384888
+cache,2640096082,C:\Users\teddi\AppData\Local\pip\cache,1395,2023-02-19 22:38:43.271372544,5,C:\Users\teddi\AppData\Local\pip,2517.791826248169
+pip,2640096082,C:\Users\teddi\AppData\Local\pip,1395,2023-01-06 19:57:50.363817728,4,C:\Users\teddi\AppData\Local,2517.791826248169
+Lib,2622752575,C:\ProgramData\Anaconda3\Lib,104758,2022-11-02 23:23:24.005574400,2,C:\ProgramData\Anaconda3,2501.251769065857
+AzRecorderFree,2615007818,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828\Video\AzRecorderFree,11,2023-02-12 05:18:31.295024640,10,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211224828\Video,2493.8657932281494
+http,2612753105,C:\Users\teddi\AppData\Local\pip\cache\http,1254,2023-02-01 01:18:40.958958080,6,C:\Users\teddi\AppData\Local\pip\cache,2491.715531349182
+site-packages,2592900983,C:\ProgramData\Anaconda3\Lib\site-packages,102807,2023-07-10 15:35:21.595837952,3,C:\ProgramData\Anaconda3\Lib,2472.7830724716187
+resources,2559280469,C:\Program Files\Docker\Docker\resources,47,2023-07-08 04:45:00.523982080,3,C:\Program Files\Docker\Docker,2440.720051765442
+bin,2471469725,C:\Users\teddi\AppData\Local\Alteryx\bin,36014,2023-07-21 16:09:33.593703680,5,C:\Users\teddi\AppData\Local\Alteryx,2356.9772005081177
+Library,2428337488,C:\ProgramData\Anaconda3\envs\customerBehavior\Library,29092,2023-07-01 14:50:56.730167040,4,C:\ProgramData\Anaconda3\envs\customerBehavior,2315.8430938720703
+R,2396256187,C:\R,62456,2023-08-22 01:55:22.941816832,0,C:\,2285.247981071472
+Lib,2336098372,C:\ProgramData\Anaconda3\envs\customerBehavior\Lib,67611,2023-03-02 04:54:28.024569344,4,C:\ProgramData\Anaconda3\envs\customerBehavior,2227.8770179748535
+Material,2309166277,C:\Users\teddi\OneDrive\Material,1904,2022-10-18 20:46:03.223370240,3,C:\Users\teddi\OneDrive,2202.1925706863403
+site-packages,2306266073,C:\ProgramData\Anaconda3\envs\customerBehavior\Lib\site-packages,65662,2023-09-14 00:53:04.407013376,5,C:\ProgramData\Anaconda3\envs\customerBehavior\Lib,2199.4267206192017
+_EXTERNAL_,2300152519,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212\Photo\_EXTERNAL_,850,2023-02-12 04:32:33.137149696,10,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212\Photo,2193.596381187439
+DCIM,2299719734,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212\Photo\_EXTERNAL_\DCIM,847,2023-02-12 04:32:33.133493248,11,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212\Photo\_EXTERNAL_,2193.183645248413
+Camera,2271525955,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212\Photo\_EXTERNAL_\DCIM\Camera,794,2023-02-12 04:36:28.235468800,12,C:\Users\teddi\Documents\Samsung\SmartSwitch\backup\SM-G975U1\SM-G975U1_15134989482\SM-G975U1_20230211233212\Photo\_EXTERNAL_\DCIM,2166.295962333679
+Chrome,2249191305,C:\Users\teddi\AppData\Local\Google\Chrome,12085,2022-10-18 23:09:23.620133376,5,C:\Users\teddi\AppData\Local\Google,2144.9959802627563
+User Data,2248480940,C:\Users\teddi\AppData\Local\Google\Chrome\User Data,12074,2023-09-16 23:19:28.552331776,6,C:\Users\teddi\AppData\Local\Google\Chrome,2144.3185234069824
+Google,2248355702,C:\Users\teddi\AppData\Local\Google,12088,2022-10-18 23:13:40.111615232,4,C:\Users\teddi\AppData\Local,2144.1990871429443
+Music,2154975153,C:\Users\teddi\Music,447,2023-02-25 20:59:56.207238656,2,C:\Users\teddi,2055.144455909729
+R,2147890764,C:\Users\teddi\Documents\R,51424,2022-10-23 03:08:05.392824064,3,C:\Users\teddi\Documents,2048.388256072998
+4.0,2147890764,C:\Users\teddi\Documents\R\win-library\4.0,51424,2022-10-23 03:30:02.154049280,5,C:\Users\teddi\Documents\R\win-library,2048.388256072998
+win-library,2147890764,C:\Users\teddi\Documents\R\win-library,51424,2022-10-23 03:08:05.404219904,4,C:\Users\teddi\Documents\R,2048.388256072998
+Library,2017151560,C:\ProgramData\Anaconda3\Library,15155,2023-02-05 23:26:44.451990016,2,C:\ProgramData\Anaconda3,1923.7056350708008
+Adobe,1943294530,C:\Program Files\Adobe,6817,2023-06-12 15:40:12.550970368,1,C:\Program Files,1853.2700824737549
+Teaching,1938242781,C:\Users\teddi\Documents\Old HP docs\Teaching,703,2022-10-21 03:22:25.506385664,4,C:\Users\teddi\Documents\Old HP docs,1848.452359199524
+Office16,1925097645,C:\Program Files\Microsoft Office\root\Office16,3374,2023-09-16 12:30:58.917962240,3,C:\Program Files\Microsoft Office\root,1835.9161806106567
+bin,1912600889,C:\ProgramData\Anaconda3\envs\customerBehavior\Library\bin,513,2023-07-01 15:04:20.424630272,5,C:\ProgramData\Anaconda3\envs\customerBehavior\Library,1823.998345375061
+BAIS660 Programming for Analytics,1868352879,C:\Users\teddi\Documents\Xavier\BAIS660 Programming for Analytics,81,2022-10-21 03:11:48.781513216,4,C:\Users\teddi\Documents\Xavier,1781.8001546859741
+Tableau 2022.3,1857034155,C:\Program Files\Tableau\Tableau 2022.3,5403,2022-10-28 23:48:09.169369856,2,C:\Program Files\Tableau,1771.005778312683
+Common Files,1833384319,C:\Program Files\Common Files,5691,2023-06-12 15:24:07.511840768,1,C:\Program Files,1748.4515371322632
+swsetup,1749318645,C:\swsetup,715,2023-08-19 14:27:36.991925248,0,C:\,1668.2802629470825
+lib,1711741383,C:\rtools42\x86_64-w64-mingw32.static.posix\lib,2765,2022-10-22 04:46:38.582477824,2,C:\rtools42\x86_64-w64-mingw32.static.posix,1632.443793296814
+lib,1711741383,C:\rtools42\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix\lib,2765,2022-10-22 04:46:38.582477824,6,C:\rtools42\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix,1632.443793296814
+Tableau Prep Builder 2022.3,1694332450,C:\Program Files\Tableau\Tableau Prep Builder 2022.3,421,2022-10-29 00:09:28.994468608,2,C:\Program Files\Tableau,1615.8413410186768
+$WinREAgent,1663941759,C:\$WinREAgent,7,2023-09-12 23:09:17.190414336,0,C:\,1586.8585195541382
+Tableau 2022.1,1650402319,C:\Program Files\Tableau\Tableau 2022.1,5363,2022-10-28 23:28:49.895051776,2,C:\Program Files\Tableau,1573.9463033676147
+Acrobat DC,1645965559,C:\Program Files\Adobe\Acrobat DC,4100,2023-09-14 17:54:16.449629184,2,C:\Program Files\Adobe,1569.7150793075562
+imageClassficatgion_deployment,1641465306,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment,29021,2023-07-11 04:30:05.192787968,4,C:\Users\teddi\Documents\GitHub,1565.423303604126
+IELTS,1626851203,C:\Users\teddi\Documents\Old HP docs\Teaching\IELTS,146,2022-10-21 03:22:14.401488896,5,C:\Users\teddi\Documents\Old HP docs\Teaching,1551.4862089157104
+ivenv,1620880343,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment\ivenv,28743,2023-07-11 19:59:53.645473280,5,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment,1545.791953086853
+bin,1620676576,C:\ProgramData\Anaconda3\Library\bin,532,2023-02-09 00:47:53.486775552,3,C:\ProgramData\Anaconda3\Library,1545.5976257324219
+site-packages,1613357574,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment\ivenv\Lib\site-packages,28577,2023-07-11 20:00:13.708453120,7,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment\ivenv\Lib,1538.617681503296
+Lib,1613357574,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment\ivenv\Lib,28577,2023-07-10 21:59:18.302521344,6,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment\ivenv,1538.617681503296
+Default,1609536481,C:\Users\teddi\AppData\Local\Google\Chrome\User Data\Default,11213,2023-09-16 23:24:20.905417728,7,C:\Users\teddi\AppData\Local\Google\Chrome\User Data,1534.9736032485962
+Microsoft,1578033192,C:\ProgramData\Microsoft,2182,2023-06-08 13:15:58.893618944,1,C:\ProgramData,1504.9297256469727
+Tableau,1562205507,C:\Users\teddi\Documents\Tableau,4903,2022-10-23 03:40:00.439266816,3,C:\Users\teddi\Documents,1489.8352689743042
+Tableau 2018.3,1552684825,C:\Users\teddi\Documents\Tableau\Tableau 2018.3,4893,2022-10-23 03:40:00.252936448,4,C:\Users\teddi\Documents\Tableau,1480.755639076233
+Adobe,1545293107,C:\Program Files\Common Files\Adobe,5143,2023-06-12 15:40:59.946023168,2,C:\Program Files\Common Files,1473.7063474655151
+Acrobat,1442561065,C:\Program Files\Adobe\Acrobat DC\Acrobat,3709,2023-09-14 17:54:17.164741376,3,C:\Program Files\Adobe\Acrobat DC,1375.733437538147
+vfs,1440039803,C:\Program Files\Microsoft Office\root\vfs,1157,2022-10-19 01:24:01.488672000,3,C:\Program Files\Microsoft Office\root,1373.328974723816
+SQL2022,1391314129,C:\SQL2022,359,2023-01-08 22:58:55.291931136,0,C:\,1326.8605508804321
+EdgeWebView,1365255305,C:\Program Files (x86)\Microsoft\EdgeWebView,708,2023-09-15 06:56:46.444820480,2,C:\Program Files (x86)\Microsoft,1302.0089197158813
+Application,1365255305,C:\Program Files (x86)\Microsoft\EdgeWebView\Application,708,2023-09-15 06:56:45.684121600,3,C:\Program Files (x86)\Microsoft\EdgeWebView,1302.0089197158813
+On-premises data gateway (personal mode),1356490201,C:\Users\teddi\AppData\Local\Microsoft\On-premises data gateway (personal mode),3384,2023-09-14 17:37:03.316096256,5,C:\Users\teddi\AppData\Local\Microsoft,1293.6498651504517
+iigd_dch.inf_amd64_8b084a4c4c96a30f,1349805415,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_8b084a4c4c96a30f,144,2023-07-13 20:31:32.414124800,4,C:\Windows\System32\DriverStore\FileRepository,1287.2747564315796
+Developer_ENU,1349104490,C:\SQL2022\Developer_ENU,208,2023-01-08 22:58:55.353526016,1,C:\SQL2022,1286.6063022613525
+$PatchCache$,1340355992,C:\Windows\Installer\$PatchCache$,864,2023-04-28 17:34:56.999414016,2,C:\Windows\Installer,1278.263084411621
+Integrated Chinese Series,1334378213,C:\Users\teddi\Desktop\Desktop Cleanup\toshiba flash drive backup\03.Beginners Courses\Integrated Chinese Series,4,2022-10-21 01:41:34.055215616,6,C:\Users\teddi\Desktop\Desktop Cleanup\toshiba flash drive backup\03.Beginners Courses,1272.5622301101685
+User Data,1333738622,C:\Users\teddi\AppData\Local\Microsoft\Edge\User Data,10438,2023-06-08 00:50:22.309057024,6,C:\Users\teddi\AppData\Local\Microsoft\Edge,1271.9522686004639
+Edge,1333738622,C:\Users\teddi\AppData\Local\Microsoft\Edge,10438,2022-10-18 20:43:39.794899200,5,C:\Users\teddi\AppData\Local\Microsoft,1271.9522686004639
+iigd_dch.inf_amd64_dc29bdfd478be046,1332366204,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_dc29bdfd478be046,144,2023-04-19 21:59:45.238171392,4,C:\Windows\System32\DriverStore\FileRepository,1270.6434288024902
+test 1,1329799710,C:\Users\teddi\Documents\test 1,29,2022-10-23 03:40:21.334077696,3,C:\Users\teddi\Documents,1268.1958293914795
+Outlook,1285547952,C:\Users\teddi\AppData\Local\Microsoft\Outlook,67,2023-09-16 12:56:49.952081408,5,C:\Users\teddi\AppData\Local\Microsoft,1225.9940643310547
+Microsoft SQL Server,1277355869,C:\Program Files\Microsoft SQL Server,2548,2023-05-27 23:00:02.064979968,1,C:\Program Files,1218.1814851760864
+Managed,1263422368,C:\Windows\Installer\$PatchCache$\Managed,817,2023-09-12 22:35:14.525031424,3,C:\Windows\Installer\$PatchCache$,1204.8934631347656
+Default,1254390889,C:\Users\teddi\AppData\Local\Microsoft\Edge\User Data\Default,9927,2023-09-14 17:35:45.458237696,7,C:\Users\teddi\AppData\Local\Microsoft\Edge\User Data,1196.2803735733032
+Postman,1236817128,C:\Users\teddi\AppData\Local\Postman,156,2023-07-08 18:31:38.567140352,4,C:\Users\teddi\AppData\Local,1179.5207290649414
+.cache,1222011262,C:\Users\teddi\.cache,30,2023-07-01 14:53:03.222894336,2,C:\Users\teddi,1165.4007549285889
+AnalyzingDatawithMSPowerBI,1214693938,C:\Users\teddi\Documents\Training\AnalyzingDatawithMSPowerBI,56,2023-05-22 01:16:14.454507264,4,C:\Users\teddi\Documents\Training,1158.4224109649658
+hub,1209248334,C:\Users\teddi\.cache\huggingface\hub,28,2023-07-01 19:06:21.613968640,4,C:\Users\teddi\.cache\huggingface,1153.2290782928467
+huggingface,1209248334,C:\Users\teddi\.cache\huggingface,28,2023-07-01 14:53:03.223893504,3,C:\Users\teddi\.cache,1153.2290782928467
+Microsoft SQL Server Management Studio 19,1205767856,C:\Program Files (x86)\Microsoft SQL Server Management Studio 19,3645,2023-03-10 19:47:07.891549952,1,C:\Program Files (x86),1149.9098358154297
+car_tires,1204151826,C:\Users\teddi\Documents\Projects\car_tires,23450,2023-02-19 23:36:44.769634560,4,C:\Users\teddi\Documents\Projects,1148.3686695098877
+.myvenv,1204146390,C:\Users\teddi\Documents\Projects\car_tires\.myvenv,23442,2023-02-19 22:48:36.987686400,5,C:\Users\teddi\Documents\Projects\car_tires,1148.3634853363037
+Common7,1202456609,C:\Program Files (x86)\Microsoft SQL Server Management Studio 19\Common7,3633,2023-07-29 20:41:55.031499776,2,C:\Program Files (x86)\Microsoft SQL Server Management Studio 19,1146.7519845962524
+site-packages,1200308180,C:\Users\teddi\Documents\Projects\car_tires\.myvenv\Lib\site-packages,23420,2023-02-19 22:55:31.677778688,7,C:\Users\teddi\Documents\Projects\car_tires\.myvenv\Lib,1144.70308303833
+Lib,1200308180,C:\Users\teddi\Documents\Projects\car_tires\.myvenv\Lib,23420,2023-02-19 20:56:07.166272768,6,C:\Users\teddi\Documents\Projects\car_tires\.myvenv,1144.70308303833
+msi,1184590848,C:\Users\teddi\Downloads\msi,18,2023-09-03 22:43:58.583704832,3,C:\Users\teddi\Downloads,1129.7138671875
+Miniconda3,1165988151,C:\Users\teddi\AppData\Local\Alteryx\bin\Miniconda3,28936,2023-07-21 15:52:58.159534080,6,C:\Users\teddi\AppData\Local\Alteryx\bin,1111.9729528427124
+Code,1156813049,C:\Users\teddi\AppData\Roaming\Code,9004,2023-09-16 02:11:45.924559872,4,C:\Users\teddi\AppData\Roaming,1103.2228937149048
+bin,1151185502,C:\Program Files\Tableau\Tableau 2022.3\bin,729,2022-10-28 23:48:09.081607936,3,C:\Program Files\Tableau\Tableau 2022.3,1097.8560466766357
+Datasets,1146618410,C:\Users\teddi\Documents\Datasets,115,2023-06-22 01:14:00.220738816,3,C:\Users\teddi\Documents,1093.5005283355713
+m,1146294297,C:\Users\teddi\AppData\Local\Microsoft\On-premises data gateway (personal mode)\m,2798,2023-06-01 21:00:22.045729280,6,C:\Users\teddi\AppData\Local\Microsoft\On-premises data gateway (personal mode),1093.191430091858
+resources,1129384745,C:\Program Files\Tableau\Tableau Prep Builder 2022.3\resources,222,2022-10-29 00:09:19.185774848,3,C:\Program Files\Tableau\Tableau Prep Builder 2022.3,1077.065224647522
+app,1129384745,C:\Program Files\Tableau\Tableau Prep Builder 2022.3\resources\app,222,2022-10-29 00:09:31.565030144,4,C:\Program Files\Tableau\Tableau Prep Builder 2022.3\resources,1077.065224647522
+Microsoft SQL Server Management Studio 18,1128841388,C:\Program Files (x86)\Microsoft SQL Server Management Studio 18,3553,2023-01-08 22:37:09.686541824,1,C:\Program Files (x86),1076.5470390319824
+Common7,1125390642,C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7,3539,2023-01-08 22:38:05.490594048,2,C:\Program Files (x86)\Microsoft SQL Server Management Studio 18,1073.2561511993408
+Bitdefender,1119285493,C:\Program Files\Bitdefender,7381,2023-07-04 18:56:53.541676288,1,C:\Program Files,1067.4338274002075
+SysWOW64,1109016330,C:\Windows\SysWOW64,4770,2023-09-14 17:50:38.776807680,1,C:\Windows,1057.6403903961182
+tensorflow,1101134150,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment\ivenv\Lib\site-packages\tensorflow,11308,2023-07-11 02:12:03.591758592,8,C:\Users\teddi\Documents\GitHub\imageClassficatgion_deployment\ivenv\Lib\site-packages,1050.1233577728271
+tensorflow,1101093494,C:\Users\teddi\.pyenv\pyenv-win\versions\3.9.6\Lib\site-packages\tensorflow,11308,2023-07-06 02:48:08.646200320,8,C:\Users\teddi\.pyenv\pyenv-win\versions\3.9.6\Lib\site-packages,1050.0845851898193
+assembly,1100789322,C:\Windows\assembly,1351,2023-08-11 16:36:29.194490624,1,C:\Windows,1049.7945041656494
+IDE,1092917915,C:\Program Files (x86)\Microsoft SQL Server Management Studio 19\Common7\IDE,3245,2023-07-29 20:41:55.062630400,3,C:\Program Files (x86)\Microsoft SQL Server Management Studio 19\Common7,1042.287745475769
+MySQL,1088794037,C:\Program Files\MySQL,16501,2023-05-06 19:28:12.937916416,1,C:\Program Files,1038.3549089431763
+Documents,1086741317,C:\Users\teddi\OneDrive\Documents,1430,2022-10-19 02:51:03.804956928,3,C:\Users\teddi\OneDrive,1036.3972826004028
+dzhqoep8.default-release,1083250847,C:\Users\teddi\AppData\Local\Mozilla\Firefox\Profiles\dzhqoep8.default-release,65334,2023-09-16 23:31:55.421431552,7,C:\Users\teddi\AppData\Local\Mozilla\Firefox\Profiles,1033.0685110092163
+Mozilla,1083242508,C:\Users\teddi\AppData\Local\Mozilla,65336,2022-10-19 01:48:58.044802304,4,C:\Users\teddi\AppData\Local,1033.0605583190918
+Firefox,1083242388,C:\Users\teddi\AppData\Local\Mozilla\Firefox,65336,2023-09-14 17:37:35.121534464,5,C:\Users\teddi\AppData\Local\Mozilla,1033.0604438781738
+Profiles,1083242386,C:\Users\teddi\AppData\Local\Mozilla\Firefox\Profiles,65335,2022-10-19 01:48:58.049788672,6,C:\Users\teddi\AppData\Local\Mozilla\Firefox,1033.0604419708252
+tensorflow,1075208754,C:\Users\teddi\Documents\Projects\todo_list\venv\Lib\site-packages\tensorflow,10776,2023-07-04 06:07:34.122287872,8,C:\Users\teddi\Documents\Projects\todo_list\venv\Lib\site-packages,1025.3989734649658
